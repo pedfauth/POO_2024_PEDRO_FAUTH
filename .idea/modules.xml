@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Commits.iml" filepath="$PROJECT_DIR$/.idea/Commits.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividade2302/atividade2302.iml" filepath="$PROJECT_DIR$/atividade2302/atividade2302.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pbl02/pbl02.iml" filepath="$PROJECT_DIR$/pbl02/pbl02.iml" />
+    </modules>
+  </component>
+</project>
