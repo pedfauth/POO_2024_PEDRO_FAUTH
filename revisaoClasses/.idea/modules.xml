@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calendario/Calendario.iml" filepath="$PROJECT_DIR$/Calendario/Calendario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Carro/Carro.iml" filepath="$PROJECT_DIR$/Carro/Carro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" filepath="$PROJECT_DIR$/ContaBancaria/ContaBancaria.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudante/Estudante.iml" filepath="$PROJECT_DIR$/Estudante/Estudante.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Funcionario/Funcionario.iml" filepath="$PROJECT_DIR$/Funcionario/Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Livro/Livro.iml" filepath="$PROJECT_DIR$/Livro/Livro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Pessoa/Pessoa.iml" filepath="$PROJECT_DIR$/Pessoa/Pessoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Retangulo/Retangulo.iml" filepath="$PROJECT_DIR$/Retangulo/Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Triangulo/Triangulo.iml" filepath="$PROJECT_DIR$/Triangulo/Triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/revisaoClasses.iml" filepath="$PROJECT_DIR$/.idea/revisaoClasses.iml" />
+    </modules>
+  </component>
+</project>
